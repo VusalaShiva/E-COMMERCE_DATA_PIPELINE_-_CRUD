@@ -1,0 +1,161 @@
+Order_ID,Order_Date,Customer_ID,Region,Payment_Method,Revenue,Quantity,Email
+1001,2025-07-21,CUST-91,North,UPI,373.36,4,jmclaughlin@example.org
+1002,2025-05-22,CUST-38,South,UPI,341.58,9,jsmith@example.com
+1003,2025-10-12,CUST-21,Central,NetBanking,25.57,2,rivaskelsey@example.org
+1004,2025-03-03,CUST-37,South,Debit Card,304.99,9,ihernandez@example.com
+1005,2025-08-01,CUST-35,Central,NetBanking,118.02,10,phillipspeter@example.com
+1006,2024-10-21,CUST-45,North,Credit Card,352.09,6,schneiderrobert@example.net
+1007,2025-01-04,CUST-45,South,credit card,479.03,6,patrick82@example.org
+1008,2025-07-19,CUST-23,North,NetBanking,57.39,6,pwalker@example.com
+1009,2024-12-22,CUST-87,East,UPI,367.57,9,katherinerhodes@example.org
+1010,2025-03-10,,West,UPI,280.5,10,carlking@example.org
+1011,2025-01-09,CUST-56,Central,Credit Card,355.24,1,haynesmonica@example.net
+1012,2025-07-05,CUST-94,South,Cash on Delivery,492.76,4,victor70@example.net
+1013,2025-02-01,CUST-22,West,Cash.on.Delivery,232.17,6,codyhuffman@example.com
+1014,2025-01-21,CUST-30,East,cash on delivery,112.66,5,kayla29@example.net
+1015,2025-01-06,CUST-99,NULL,Debit Card,321.14,9,selenalyons@example.com
+1016,2025-05-22,CUST-41,South,NetBanking,195.93,9,christopherjones@example.com
+1017,2024-12-08,CUST-38,East,UPI,122.23,1,william86@example.net
+1018,2025-08-12,CUST-50,West,Cash on Delivery,42.43,10,david62@example.net
+1019,2025-02-20,CUST-50,South,NetBanking,203.86,8,baileytiffany@example.org
+1009,2025-02-15,,East,Credit Card,130.85,9,raymarie@example.com
+1021,2025-08-02,CUST-43,Central,netbanking,449.93,7,staceynicholson@example.com
+1022,2025-03-26,CUST-56,South,Credit Card,259.67,2,hallmichael@example_at_org
+1023,2025-01-25,CUST-16,North,Credit Card,317.45,7,stephen82@example.org
+1024,2025-07-03,CUST-86,North,NetBanking,196.99,8,sandrakaufman@example.com
+1025,04/15/2025,CUST-77,East,Debit Card,431.78,1,anna52@example.com
+1026,2025-01-21,CUST-97,North,Debit.Card,377.93,6,ryanjimenez@example.org
+1027,2025-09-12,CUST-24,East,NetBanking,87.5,1,peterdecker@example.org
+1028,2025-03-20,CUST-43,Central,credit card,258.76,2,james29@example.com
+1029,2025-03-06,CUST-90,East,Debit Card,308.4,3,smithchristine@example.net
+1030,2025-05-01,,NULL,Debit Card,ZERO,9,watsonsandra@example.net
+1031,2025-06-23,CUST-86,East,NetBanking,19.54,6,mark73@example.org
+1032,2025-08-25,CUST-49,South,UPI,128.03,10,toddthomas@example.org
+1033,2025-04-26,CUST-20,North,NetBanking,409.85,9,maria29@example.org
+1034,2025-01-31,CUST-26,South,NetBanking,473.96,3,murphybrittany@example.org
+1035,2025-04-22,CUST-43,Central,debit card,217.34,4,daviddiaz@example.com
+1036,2025-01-08,CUST-79,South,Cash on Delivery,205.51,6,zsmith@example.net
+1037,2025-01-12,CUST-66,Central,NetBanking,69.29,4,scott59@example.net
+1038,2025-06-16,CUST-18,East,UPI,298.27,4,icline@example.net
+1039,2025-02-16,CUST-85,South,UPI,44.79,1,lynchdonald@example.org
+1009,2025-01-28,,North,UPI,431.22,one,welchpeter@example.com
+1041,2025-01-13,CUST-45,West,Credit Card,274.22,10,cbailey@example.com
+1042,2025-03-01,CUST-83,West,credit card,394.46,7,zdiaz@example.org
+1043,2025-01-16,CUST-34,North,UPI,332.9,6,jessica67@example.com
+1044,2025-08-25,CUST-64,West,NetBanking,433.28,1,laura57@example_at_com
+1045,2025-02-07,CUST-96,NULL,UPI,207.28,6,aguilarmatthew@example.org
+1046,2025-02-16,CUST-23,South,Credit Card,103.2,8,michael28@example.org
+1047,2025-04-17,CUST-27,West,Credit Card,146.49,4,smithmary@example.net
+1048,2025-04-24,CUST-19,West,Debit Card,57.98,9,kingbrandy@example.net
+1049,2024-11-22,CUST-11,North,credit card,91.49,8,yhoward@example.com
+1050,01/15/2025,,South,NetBanking,452.2,3,suttonomar@example.org
+1051,2025-02-28,CUST-58,North,NetBanking,139.95,8,ramirezmichelle@example.com
+1052,2025-02-12,CUST-46,West,Debit.Card,334.32,8,raymondmark@example.com
+1053,2025-09-09,CUST-29,South,Cash on Delivery,116.67,1,xgrant@example.com
+1054,2025-08-23,CUST-84,Central,UPI,376.51,1,reynoldswalter@example.com
+1055,2025-01-14,CUST-16,Central,NetBanking,256.4,9,jacobmorris@example.com
+1056,2025-06-09,CUST-30,North,debit card,49.25,3,larsenpeggy@example.org
+1057,2025-01-22,CUST-18,Central,UPI,340.85,4,lucasharrell@example.com
+1058,2024-11-07,CUST-61,North,Debit Card,130.65,10,adriandavis@example.com
+1059,2025-07-27,CUST-15,Central,UPI,215.42,10,david35@example.net
+1011,2025-01-28,,NULL,Cash on Delivery,NA,4,keithrogers@example.net
+1061,2025-08-04,CUST-50,South,Cash on Delivery,203.94,5,lhayes@example.net
+1062,2025-07-21,CUST-68,East,UPI,14.56,10,heather08@example.net
+1063,2025-09-15,CUST-82,North,upi,273.44,9,hannah44@example.net
+1064,2025-09-08,CUST-43,South,Cash on Delivery,441.62,4,thomas95@example.net
+1065,2025-02-08,CUST-57,East,Credit.Card,224.71,9,xgarcia@example.com
+1066,2025-07-18,CUST-48,Central,Debit Card,13.83,9,xwoods@example_at_net
+1067,2025-05-08,CUST-48,North,Credit Card,139.59,2,tyler86@example.net
+1068,2025-04-13,CUST-80,South,Cash on Delivery,148.06,4,garciadebbie@example.net
+1069,2024-10-21,CUST-53,South,Cash on Delivery,257.65,5,aaron63@example.net
+1070,2024-12-08,,North,netbanking,416.38,1,udavis@example.com
+1071,2025-04-10,CUST-10,East,Credit Card,322.19,5,ytodd@example.net
+1072,2025-01-03,CUST-30,West,Debit Card,355.78,9,joshua82@example.com
+1073,2024-12-31,CUST-11,North,UPI,473.07,3,cgeorge@example.net
+1074,2025-01-08,CUST-79,North,Cash on Delivery,295.43,3,adamsmichael@example.org
+1075,11/06/2024,CUST-65,NULL,UPI,161.05,1,washingtonheidi@example.org
+1076,2025-01-29,CUST-55,South,Credit Card,336.8,6,kconley@example.org
+1077,2025-09-16,CUST-81,West,debit card,377.24,4,vzimmerman@example.com
+1078,2025-03-26,CUST-30,South,NetBanking,22.15,6,mburns@example.org
+1079,2024-10-22,CUST-62,South,Cash on Delivery,88.01,2,xanderson@example.com
+1006,2025-01-17,,North,NetBanking,118.99,two,nrandall@example.com
+1081,2025-01-30,CUST-39,South,UPI,333.42,7,jamesholder@example.org
+1082,2025-05-02,CUST-52,East,UPI,483.78,5,justin17@example.org
+1083,2025-07-12,CUST-54,Central,NetBanking,342.96,9,scott20@example.net
+1084,2025-10-03,CUST-52,North,upi,439.75,5,gibarra@example.com
+1085,2025-03-27,CUST-32,Central,Cash on Delivery,28.75,10,lambertbilly@example.com
+1086,2025-08-29,CUST-65,East,Cash on Delivery,223.83,9,jennifer36@example.net
+1087,2025-07-11,CUST-24,West,Debit Card,103.14,1,iluna@example.org
+1088,2024-12-24,CUST-65,North,Debit Card,463.53,9,sydneyatkins@example_at_com
+1089,2025-01-05,CUST-97,South,Cash on Delivery,221.34,6,sancheztyler@example.net
+1090,2024-11-05,,NULL,UPI,NA,5,westjonathan@example.com
+1091,2025-07-13,CUST-49,West,cash on delivery,207.18,5,marisamitchell@example.net
+1092,2025-02-23,CUST-80,South,Credit Card,216.02,7,michelledelgado@example.org
+1093,2025-10-10,CUST-96,South,Debit Card,288.86,7,nguyenkelly@example.org
+1094,2025-01-01,CUST-80,North,Cash on Delivery,150.59,7,grichards@example.com
+1095,2025-01-20,CUST-84,Central,Cash on Delivery,237.84,8,lori77@example.org
+1096,2025-07-22,CUST-96,South,Debit Card,241.86,3,xleon@example.com
+1097,2025-08-16,CUST-94,North,Cash on Delivery,262.57,10,stephanie12@example.org
+1098,2024-11-08,CUST-52,North,credit card,339.67,4,alexandrasmith@example.com
+1099,2024-12-30,CUST-35,South,UPI,32.64,8,johngallagher@example.org
+1004,09/04/2025,,North,NetBanking,213.08,10,mendozacaitlin@example.net
+1101,2025-10-16,CUST-99,West,NetBanking,205.83,3,mitchellgregory@example.com
+1102,2025-10-12,CUST-93,North,UPI,391.43,4,kingjames@example.net
+1103,2025-06-09,CUST-32,Central,NetBanking,34.61,4,richardwallace@example.net
+1104,2025-05-06,CUST-25,West,Credit.Card,402.69,9,miguelgonzalez@example.com
+1105,2024-12-16,CUST-81,NULL,cash on delivery,475.52,8,mscott@example.org
+1106,2025-06-23,CUST-88,Central,NetBanking,416.98,9,mvaldez@example.net
+1107,2025-03-04,CUST-67,South,NetBanking,230.53,4,ewilliamson@example.net
+1108,2024-10-30,CUST-91,East,Debit Card,247.45,4,andrew42@example.org
+1109,2024-10-26,CUST-45,West,UPI,359.64,4,xmartin@example.org
+1110,2024-11-04,,East,Cash on Delivery,447.58,2,diane63@example_at_org
+1111,2024-11-19,CUST-27,South,Credit Card,197.69,3,ujohnson@example.com
+1112,2025-05-03,CUST-37,North,netbanking,209.72,9,anthonywade@example.net
+1113,2025-08-25,CUST-69,West,UPI,111.35,7,josephlopez@example.net
+1114,2024-11-29,CUST-59,Central,UPI,429.8,10,hillsara@example.net
+1115,2025-04-07,CUST-58,West,UPI,471.94,5,claytonkrueger@example.com
+1116,2024-11-20,CUST-59,West,Debit Card,376.28,9,gwood@example.org
+1117,2025-06-10,CUST-87,South,NetBanking,117.52,7,janetsheppard@example.net
+1118,2025-02-15,CUST-72,North,NetBanking,174.7,7,jeffreyjones@example.net
+1119,2025-03-28,CUST-31,West,credit card,490.55,9,austin51@example.com
+1002,2024-12-31,,NULL,Debit Card,NA,1,carmen26@example.com
+1121,2025-04-03,CUST-64,South,NetBanking,99.05,5,ghines@example.com
+1122,2025-08-19,CUST-58,East,Credit Card,232.8,6,berglisa@example.org
+1123,2025-05-03,CUST-58,East,NetBanking,133.61,2,anita85@example.org
+1124,2025-09-04,CUST-70,North,Debit Card,35.52,6,yroberts@example.net
+1125,05/12/2025,CUST-38,North,UPI,379.57,4,allenjames@example.com
+1126,2024-12-01,CUST-35,North,debit card,84.67,3,darrellmurray@example.net
+1127,2024-11-26,CUST-70,North,Debit Card,474.4,8,williammccormick@example.org
+1128,2025-09-08,CUST-99,East,Cash on Delivery,92.22,10,sean50@example.com
+1129,2025-10-08,CUST-24,South,Cash on Delivery,62.97,1,daniel64@example.com
+1130,2025-09-22,,Central,NetBanking,204.36,4,terry62@example.com
+1131,2024-10-21,CUST-19,Central,Credit Card,59.93,5,ywalker@example.org
+1132,2025-03-30,CUST-97,Central,UPI,400.15,10,jlopez@example_at_net
+1133,2024-10-23,CUST-15,East,debit card,219.91,6,fwilliams@example.com
+1134,2025-05-27,CUST-18,Central,Cash on Delivery,16.2,7,rushjoanna@example.com
+1135,2025-05-20,CUST-72,NULL,NetBanking,480.79,8,anthonyperry@example.net
+1136,2024-10-20,CUST-29,West,Credit Card,369.56,5,iryan@example.com
+1137,2024-11-27,CUST-88,Central,NetBanking,237.79,10,james76@example.org
+1138,2025-02-28,CUST-44,East,Credit Card,417.06,2,ymorrow@example.net
+1139,2025-01-15,CUST-45,West,Credit Card,377.73,10,kmcclain@example.com
+1003,2025-08-07,,West,cash on delivery,24.06,6,william92@example.net
+1141,2024-12-07,CUST-72,South,Cash on Delivery,400.94,6,jwalton@example.org
+1142,2024-12-13,CUST-45,Central,Cash on Delivery,282.34,9,desiree83@example.net
+1143,2025-10-05,CUST-34,North,Credit.Card,362.84,8,teresasmith@example.net
+1144,2025-03-04,CUST-81,South,NetBanking,326.49,8,ericdouglas@example.com
+1145,2025-02-03,CUST-67,North,UPI,154.18,7,nicholasharris@example.net
+1146,2025-05-23,CUST-98,South,Cash on Delivery,335.34,6,ricky82@example.org
+1147,2025-08-17,CUST-70,Central,debit card,178.44,9,brittney04@example.org
+1148,2025-03-09,CUST-52,East,NetBanking,142.75,5,fterry@example.com
+1149,2024-12-16,CUST-39,North,Credit Card,164.62,9,michaelhall@example.com
+1150,05/13/2025,,NULL,Credit Card,thirty-five,8,brittany66@example.net
+1151,2025-03-20,CUST-85,Central,Debit Card,148.67,2,rogersheidi@example.com
+1152,2025-04-11,CUST-34,East,Credit Card,186.83,5,judithvaughn@example.com
+1153,2025-09-06,CUST-11,Central,Credit Card,144.41,1,mpeters@example.net
+1154,2025-09-06,CUST-80,East,credit card,322.56,8,oroberts@example_at_org
+1155,2025-06-13,CUST-23,North,Debit Card,149.33,8,mariabrady@example.net
+1156,2025-07-05,CUST-66,East,Credit.Card,483.09,5,wwilcox@example.org
+1157,2025-06-01,CUST-71,North,UPI,206.35,2,tiffanywilson@example.com
+1158,2025-04-02,CUST-83,North,Credit Card,83.11,10,riosadrienne@example.net
+1159,2025-04-15,CUST-48,North,Credit Card,68.04,7,chandlerstephen@example.net
+1007,2025-04-14,,Central,Debit Card,120.59,two,kristi90@example.org
